@@ -1,0 +1,23 @@
+body {
+    background-color: silver;
+ } 
+ 
+ h1 {
+    
+    color: darkgreen;
+ }
+.friend {
+    
+    background-color: lightgreen;
+ }
+ 
+/* p {
+     text-transform: uppercase;
+ }*/
+
+ h3 {
+     text-transform: uppercase;
+ }
+/* .onclick {
+     display: inline;
+ }*/
